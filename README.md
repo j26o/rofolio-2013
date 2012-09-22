@@ -2,6 +2,6 @@
 
 Online portfolio of June Roland Baldovino using HTML5, javascript, jQuery, and Three.js
 
-* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+* Source: [https://https://github.com/junebaldovino/roland-baldovino.git](https://github.com/junebaldovino/roland-baldovino.git)
 * Homepage: [http://junebaldovino.com](http://junebaldovino.com)
 * Twitter: [@wtfroland](http://twitter.com/wtfroland)
